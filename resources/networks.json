@@ -1,0 +1,258 @@
+{
+  "acala": {
+    "icon": "/networks/acala.png",
+    "name": "acala",
+    "relayChain": "polkadot",
+    "parachainId": 2000,
+    "endpoint": "wss://acala-rpc.dwellir.com",
+    "subscan": "https://acala.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
+  },
+  "astar": {
+    "icon": "/networks/astar.png",
+    "name": "astar",
+    "relayChain": "polkadot",
+    "parachainId": 2006,
+    "endpoint": "wss://astar-rpc.dwellir.com",
+    "subscan": "https://astar.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": false
+  },
+  "basilisk": {
+    "icon": "/networks/basilisk.png",
+    "name": "basilisk"
+  },
+  "bifrost": {
+    "icon": "/networks/bifrost.png",
+    "name": "bifrost"
+  },
+  "calamari": {
+    "icon": "/networks/calamari.png",
+    "name": "calamari"
+  },
+  "crab": {
+    "icon": "/networks/crab.png",
+    "name": "crab"
+  },
+  "efinity": {
+    "icon": "/networks/efinity.png",
+    "name": "efinity"
+  },
+  "equilibrium": {
+    "icon": "/networks/equilibrium.png",
+    "name": "equilibrium"
+  },
+  "genshiro": {
+    "icon": "/networks/genshiro.png",
+    "name": "genshiro"
+  },
+  "ethereum": {
+    "icon": "/networks/ethereum.png",
+    "name": "ethereum"
+  },
+  "hydradx": {
+    "icon": "/networks/hydradx.png",
+    "name": "hydradx"
+  },
+  "imbue": {
+    "icon": "/networks/imbue.png",
+    "name": "imbue"
+  },
+  "interlay": {
+    "icon": "/networks/interlay.png",
+    "name": "interlay",
+    "relayChain": "polkadot",
+    "parachainId": 2032,
+    "endpoint": "wss://api.interlay.io/parachain",
+    "subscan": "https://interlay.subscan.io",
+    "isAstarNativeToken": false
+  },
+  "kabocha": {
+    "icon": "/networks/kabocha.png",
+    "name": "kabocha"
+  },
+  "karura": {
+    "icon": "/networks/karura.png",
+    "name": "karura",
+    "relayChain": "kusama",
+    "parachainId": 2000,
+    "endpoint": "wss://karura-rpc.dwellir.com",
+    "subscan": "https://karura.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
+  },
+  "khala": {
+    "icon": "/networks/khala.png",
+    "name": "khala",
+    "relayChain": "kusama",
+    "parachainId": 2004,
+    "endpoint": "wss://khala-rpc.dwellir.com",
+    "subscan": "https://khala.subscan.io",
+    "isAstarNativeToken": true
+  },
+  "kintsugi": {
+    "icon": "/networks/kintsugi.png",
+    "name": "kintsugi",
+    "relayChain": "kusama",
+    "parachainId": 2092,
+    "endpoint": "wss://kintsugi-rpc.dwellir.com",
+    "subscan": "https://kintsugi.subscan.io",
+    "isAstarNativeToken": false
+  },
+  "kusama": {
+    "icon": "/networks/kusama.png",
+    "name": "kusama",
+    "relayChain": "kusama",
+    "parachainId": 0,
+    "endpoint": "wss://kusama-rpc.polkadot.io",
+    "subscan": "https://kusama.subscan.io",
+    "isAstarNativeToken": false
+  },
+  "kylin": {
+    "icon": "/networks/kylin.png",
+    "name": "kylin"
+  },
+  "mangata-x": {
+    "icon": "/networks/mangata-x.png",
+    "name": "mangata-x"
+  },
+  "laminar": {
+    "icon": "/networks/laminar.png",
+    "name": "laminar"
+  },
+  "listen": {
+    "icon": "/networks/listen.png",
+    "name": "listen"
+  },
+  "litmus": {
+    "icon": "/networks/litmus.png",
+    "name": "litmus"
+  },
+  "phala": {
+    "icon": "/networks/phala.png",
+    "name": "phala"
+  },
+  "pichiu": {
+    "icon": "/networks/pichiu.png",
+    "name": "pichiu"
+  },
+  "pioneer": {
+    "icon": "/networks/pioneer.png",
+    "name": "pioneer"
+  },
+  "polkadot": {
+    "icon": "/networks/polkadot.png",
+    "name": "polkadot",
+    "relayChain": "polkadot",
+    "parachainId": 0,
+    "endpoint": "wss://polkadot.api.onfinality.io/public-ws",
+    "subscan": "https://polkadot.subscan.io",
+    "isAstarNativeToken": false
+  },
+  "rococo": {
+    "icon": "/networks/rococo.png",
+    "name": "rococo"
+  },
+  "shiden": {
+    "icon": "/networks/shiden.png",
+    "name": "shiden",
+    "relayChain": "kusama",
+    "parachainId": 2007,
+    "endpoint": "wss://shiden-rpc.dwellir.com",
+    "subscan": "https://shiden.subscan.io",
+    "isEVMChain": true,
+    "isWASMChain": true,
+    "isAstarNativeToken": false
+  },
+  "statemine": {
+    "icon": "/networks/statemine.png",
+    "name": "statemine",
+    "relayChain": "kusama",
+    "parachainId": 1000,
+    "endpoint": "wss://statemine-rpc.polkadot.io",
+    "subscan": "https://statemine.subscan.io",
+    "isAstarNativeToken": false
+  },
+  "statemint": {
+    "icon": "/networks/statemine.png",
+    "name": "statemint",
+    "relayChain": "polkadot",
+    "parachainId": 1000,
+    "endpoint": "wss://statemint-rpc.dwellir.com",
+    "subscan": "https://statemint.subscan.io",
+    "isAstarNativeToken": false
+},
+  "turing": {
+    "icon": "/networks/turing.png",
+    "name": "turing"
+  },
+  "quartz": {
+    "icon": "/networks/quartz.png",
+    "name": "quartz"
+  },
+  "parallel": {
+    "icon": "/networks/parallel.png",
+    "name": "parallel"
+  },
+  "parallel heiko": {
+    "icon": "/networks/parallel heiko.png",
+    "name": "parallel heiko"
+  },
+  "moonriver": {
+    "icon": "/networks/moonriver.png",
+    "name": "moonriver",
+    "relayChain": "kusama",
+    "parachainId": 2023,
+    "endpoint": "wss://wss.api.moonriver.moonbeam.network",
+    "subscan": "https://moonriver.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
+  },
+  "kico": {
+    "icon": "/networks/kico.png",
+    "name": "kico"
+  },
+  "crust shadow": {
+    "icon": "/networks/crust shadow.png",
+    "name": "crust shadow"
+  },
+  "altair": {
+    "icon": "/networks/altair.png",
+    "name": "altair"
+  },
+  "moonbeam": {
+    "icon": "/networks/moonbeam.png",
+    "name": "moonbeam",
+    "relayChain": "polkadot",
+    "parachainId": 2004,
+    "endpoint": "wss://wss.api.moonbeam.network",
+    "subscan": "https://moonbeam.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
+  },
+  "integritee": {
+    "icon": "/networks/integritee.png",
+    "name": "integritee"
+  },
+  "robonomics": {
+    "icon": "/networks/robonomics.png",
+    "name": "robonomics"
+  },
+  "gm parachain": {
+    "icon": "/networks/gm.png",
+    "name": "gm parachain"
+  },
+  "arctic": {
+    "icon": "/networks/arctic.png",
+    "name": "arctic"
+  },
+  "centrifuge": {
+    "icon": "/networks/centrifuge.png",
+    "name": "centrifuge"
+  },
+  "zeitgeist": {
+    "icon": "/networks/zeitgeist.png",
+    "name": "zeitgeist"
+  }
+}

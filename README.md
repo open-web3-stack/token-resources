@@ -1,4 +1,4 @@
-## Acala Resources
+## Polkadot Ecosystem Token Resources
 
 ### 1. Add Token And Network Icon
   1. prepare icons for token and network, when the size is 64X64/128X128 and transparent background will better.

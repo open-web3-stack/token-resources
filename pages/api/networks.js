@@ -3,7 +3,6 @@ const PUBLIC_HOST = 'https://token-resources-chi.vercel.app';
 
 Object.entries(networkList).forEach(([key, value]) => {
   value.icon = PUBLIC_HOST + value.icon
-  console.log(`${key}: ${value.icon}`)
 })
 
 const networks = JSON.stringify(networkList)

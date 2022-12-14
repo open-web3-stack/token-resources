@@ -127,6 +127,10 @@
     "icon": "/networks/quartz.png",
     "name": "quartz"
   },
+  "unique": {
+    "icon": "/networks/unique.png",
+    "name": "unique"
+  },
   "parallel": {
     "icon": "/networks/parallel.png",
     "name": "parallel"

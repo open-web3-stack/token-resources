@@ -131,7 +131,12 @@
   },
   "phala": {
     "icon": "/networks/phala.png",
-    "name": "phala"
+    "name": "phala",
+    "relayChain": "polkadot",
+    "parachainId": 2035,
+    "endpoint": "wss://api.phala.network/ws",
+    "subscan": "https://phala.subscan.io",
+    "isAstarNativeToken": true
   },
   "pichiu": {
     "icon": "/networks/pichiu.png",
@@ -215,7 +220,12 @@
   },
   "crust shadow": {
     "icon": "/networks/crust shadow.png",
-    "name": "crust shadow"
+    "name": "crust shadow",
+    "relayChain": "kusama",
+    "parachainId": 2012,
+    "endpoint": "wss://rpc2-shadow.crust.network",
+    "subscan": "https://crust.subscan.io",
+    "isAstarNativeToken": true
   },
   "altair": {
     "icon": "/networks/altair.png",

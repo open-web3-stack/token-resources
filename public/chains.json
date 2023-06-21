@@ -3,14 +3,17 @@
   "astar": "https://resources.acala.network/networks/astar.png",
   "basilisk": "https://resources.acala.network/networks/basilisk.png",
   "bifrost": "https://resources.acala.network/networks/bifrost.png",
+  "bsc": "https://resources.acala.network/networks/bsc.png",
   "calamari": "https://resources.acala.network/networks/calamari.png",
   "crab": "https://resources.acala.network/networks/crab.png",
   "efinity": "https://resources.acala.network/networks/efinity.png",
   "equilibrium": "https://resources.acala.network/networks/equilibrium.png",
   "genshiro": "https://resources.acala.network/networks/genshiro.png",
   "ethereum": "https://resources.acala.network/networks/ethereum.png",
-  "hydra": "https://resources.acala.network/networks/hydra.png",
+  "hydradx": "https://resources.acala.network/networks/hydradx.png",
+  "imbue": "https://resources.acala.network/networks/imbue.png",
   "interlay": "https://resources.acala.network/networks/interlay.png",
+  "kabocha": "https://resources.acala.network/networks/kabocha.png",
   "karura": "https://resources.acala.network/networks/karura.png",
   "khala": "https://resources.acala.network/networks/khala.png",
   "kintsugi": "https://resources.acala.network/networks/kintsugi.png",
@@ -41,5 +44,6 @@
   "robonomics": "https://resources.acala.network/networks/robonomics.png",
   "gm parachain": "https://resources.acala.network/networks/gm.png",
   "arctic": "https://resources.acala.network/networks/arctic.png",
-  "centrifuge": "https://resources.acala.network/networks/centrifuge.png"
+  "centrifuge": "https://resources.acala.network/networks/centrifuge.png",
+  "zeitgeist": "https://resources.acala.network/networks/zeitgeist.png"
 }

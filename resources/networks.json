@@ -16,7 +16,7 @@
     "name": "bifrost"
   },
   "bsc": {
-    "icon": "/network/bsc.svg",
+    "icon": "/networks/bsc.png",
     "name": "bsc"
   },
   "calamari": {

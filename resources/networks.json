@@ -15,6 +15,10 @@
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
+  "bsc": {
+    "icon": "/network/bsc.svg",
+    "name": "bsc"
+  },
   "calamari": {
     "icon": "/networks/calamari.png",
     "name": "calamari"

@@ -15,9 +15,9 @@
     "icon": "/networks/bifrost.png",
     "name": "bifrost"
   },
-  "bnb": {
-    "icon": "/networks/bnb.png",
-    "name": "bnb"
+  "bsc": {
+    "icon": "/networks/bsc.png",
+    "name": "bsc"
   },
   "calamari": {
     "icon": "/networks/calamari.png",

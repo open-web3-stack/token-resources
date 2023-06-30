@@ -45,5 +45,7 @@
   "gm parachain": "https://resources.acala.network/networks/gm.png",
   "arctic": "https://resources.acala.network/networks/arctic.png",
   "centrifuge": "https://resources.acala.network/networks/centrifuge.png",
-  "zeitgeist": "https://resources.acala.network/networks/zeitgeist.png"
+  "zeitgeist": "https://resources.acala.network/networks/zeitgeist.png",
+  "optimistic": "https://resources.acala.network/networks/optimistic.png",
+  "polygon": "https://resources.acala.network/networks/polygon.png"
 }

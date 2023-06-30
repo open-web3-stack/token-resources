@@ -186,5 +186,13 @@
   "zeitgeist": {
     "icon": "/networks/zeitgeist.png",
     "name": "zeitgeist"
+  },
+  "optimistic": {
+    "icon": "/networks/optimistic.png",
+    "name": "optimistic"
+  },
+  "polygon": {
+    "icon": "/networks/polygon.png",
+    "name": "polygon"
   }
 }

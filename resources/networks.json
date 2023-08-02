@@ -194,5 +194,17 @@
   "polygon": {
     "icon": "/networks/polygon.png",
     "name": "polygon"
+  },
+  "arbitrum": {
+    "icon": "/networks/arbitrum.png",
+    "name": "arbitrum"
+  },
+  "crust": {
+    "icon": "/networks/crust.png",
+    "name": "crust"
+  },
+  "manta": {
+    "icon": "/networks/manta.png",
+    "name": "manta"
   }
 }

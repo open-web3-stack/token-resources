@@ -47,5 +47,8 @@
   "centrifuge": "https://resources.acala.network/networks/centrifuge.png",
   "zeitgeist": "https://resources.acala.network/networks/zeitgeist.png",
   "optimistic": "https://resources.acala.network/networks/optimistic.png",
-  "polygon": "https://resources.acala.network/networks/polygon.png"
+  "polygon": "https://resources.acala.network/networks/polygon.png",
+  "arbitrum": "https://resources.acala.network/networks/arbitrum.png",
+  "crust": "https://resources.acala.network/networks/crust.png",
+  "manta": "https://resources.acala.network/networks/manta.png"
 }

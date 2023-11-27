@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "node scripts/transform-icons.cjs && node scripts/create-resource-list.cjs && next build",
+    "pre-build": "node scripts/transform-icons.cjs && node scripts/create-resource-list.cjs",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },

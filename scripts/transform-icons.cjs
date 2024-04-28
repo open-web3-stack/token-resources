@@ -48,14 +48,6 @@ const transformAll = async () => {
   const promises = [];
   const images = getAllImages();
 
-  // remove all files in public
-  fs.rmSync('./public', { recursive: true });
-
-  // create directories
-  fs.mkdirSync('./public/networks', { recursive: true });
-  fs.mkdirSync('./public/tokens', { recursive: true });
-  fs.mkdirSync('./public/evm', { recursive: true });
-
   images.forEach(({ dir, name })=> {
     console.log(`processing ${dir}/${name}`);
 

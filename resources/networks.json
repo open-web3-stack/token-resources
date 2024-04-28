@@ -206,5 +206,9 @@
   "manta": {
     "icon": "/networks/manta.png",
     "name": "manta"
+  },
+  "polkadex": {
+    "icon": "/networks/polkadex.png",
+    "name": "polkadex"
   }
 }

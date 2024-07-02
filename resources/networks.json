@@ -43,9 +43,9 @@
     "icon": "/networks/ethereum.png",
     "name": "ethereum"
   },
-  "hydradx": {
-    "icon": "/networks/hydradx.png",
-    "name": "hydradx"
+  "hydration": {
+    "icon": "/networks/hydration.png",
+    "name": "hydration"
   },
   "imbue": {
     "icon": "/networks/imbue.png",

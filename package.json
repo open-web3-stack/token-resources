@@ -6,7 +6,7 @@
     "dev": "next dev",
     "transform": "node scripts/transform-icons.cjs",
     "pre-build": "node scripts/transform-icons.cjs && node scripts/create-resource-list.cjs",
-    "build": "npm run pre-build && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },

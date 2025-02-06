@@ -7,9 +7,14 @@
 
 ### 2. How to Get The Token's Resource Link
   The token URL will be created with the rule **https://resources.acala.network/{TYPE}/{NAME}.png**   
-  eg.
-  token dot: https://resources.acala.network/tokens/DOT.png   
-  polkadot network: https://resources.acala.network/networks/polkadot.png
+
+  - token dot: https://resources.acala.network/tokens/DOT.png   
+  - polkadot network: https://resources.acala.network/networks/polkadot.png
   
 ### 3. Preview All Token and Network
-  visit [acala-resource](https://resources.acala.network) page to preview all token and network icons.
+  visit [token-resource](https://resources.acala.network) page to preview all token and network icons.
+
+### 4. Get JSON Results from the API for all Tokens and Networks
+
+  - tokens: https://resources.acala.network/api/tokens
+  - networks: https://resources.acala.network/api/networks

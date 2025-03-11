@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className="p-16 bg-slate-900 min-w-screen min-h-screen">
       <Head>
-        <title>Acala Resources</title>
+        <title>Polkadot Ecosystem Token Resources</title>
       </Head>
       <section className="max-w-[1200px] m-auto">
         <h3 className="text-3xl text-red-400 font-bold mb-16 flex justify-between items-center">

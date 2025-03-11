@@ -1,11 +1,23 @@
 {
   "acala": {
     "icon": "/networks/acala.png",
-    "name": "acala"
+    "name": "acala",
+    "relayChain": "polkadot",
+    "parachainId": 2000,
+    "endpoint": "wss://acala-rpc.dwellir.com",
+    "subscan": "https://acala.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
   },
   "astar": {
     "icon": "/networks/astar.png",
-    "name": "astar"
+    "name": "astar",
+    "relayChain": "polkadot",
+    "parachainId": 2006,
+    "endpoint": "wss://astar-rpc.dwellir.com",
+    "subscan": "https://astar.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": false
   },
   "basilisk": {
     "icon": "/networks/basilisk.png",
@@ -53,7 +65,12 @@
   },
   "interlay": {
     "icon": "/networks/interlay.png",
-    "name": "interlay"
+    "name": "interlay",
+    "relayChain": "polkadot",
+    "parachainId": 2032,
+    "endpoint": "wss://api.interlay.io/parachain",
+    "subscan": "https://interlay.subscan.io",
+    "isAstarNativeToken": false
   },
   "kabocha": {
     "icon": "/networks/kabocha.png",
@@ -61,19 +78,40 @@
   },
   "karura": {
     "icon": "/networks/karura.png",
-    "name": "karura"
+    "name": "karura",
+    "relayChain": "kusama",
+    "parachainId": 2000,
+    "endpoint": "wss://karura-rpc.dwellir.com",
+    "subscan": "https://karura.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
   },
   "khala": {
     "icon": "/networks/khala.png",
-    "name": "khala"
+    "name": "khala",
+    "relayChain": "kusama",
+    "parachainId": 2004,
+    "endpoint": "wss://khala-rpc.dwellir.com",
+    "subscan": "https://khala.subscan.io",
+    "isAstarNativeToken": true
   },
   "kintsugi": {
     "icon": "/networks/kintsugi.png",
-    "name": "kintsugi"
+    "name": "kintsugi",
+    "relayChain": "kusama",
+    "parachainId": 2092,
+    "endpoint": "wss://kintsugi-rpc.dwellir.com",
+    "subscan": "https://kintsugi.subscan.io",
+    "isAstarNativeToken": false
   },
   "kusama": {
     "icon": "/networks/kusama.png",
-    "name": "kusama"
+    "name": "kusama",
+    "relayChain": "kusama",
+    "parachainId": 0,
+    "endpoint": "wss://kusama-rpc.polkadot.io",
+    "subscan": "https://kusama.subscan.io",
+    "isAstarNativeToken": false
   },
   "kylin": {
     "icon": "/networks/kylin.png",
@@ -97,7 +135,12 @@
   },
   "phala": {
     "icon": "/networks/phala.png",
-    "name": "phala"
+    "name": "phala",
+    "relayChain": "polkadot",
+    "parachainId": 2035,
+    "endpoint": "wss://api.phala.network/ws",
+    "subscan": "https://phala.subscan.io",
+    "isAstarNativeToken": true
   },
   "pichiu": {
     "icon": "/networks/pichiu.png",
@@ -109,7 +152,12 @@
   },
   "polkadot": {
     "icon": "/networks/polkadot.png",
-    "name": "polkadot"
+    "name": "polkadot",
+    "relayChain": "polkadot",
+    "parachainId": 0,
+    "endpoint": "wss://polkadot.api.onfinality.io/public-ws",
+    "subscan": "https://polkadot.subscan.io",
+    "isAstarNativeToken": false
   },
   "rococo": {
     "icon": "/networks/rococo.png",
@@ -117,12 +165,33 @@
   },
   "shiden": {
     "icon": "/networks/shiden.png",
-    "name": "shiden"
+    "name": "shiden",
+    "relayChain": "kusama",
+    "parachainId": 2007,
+    "endpoint": "wss://shiden-rpc.dwellir.com",
+    "subscan": "https://shiden.subscan.io",
+    "isEVMChain": true,
+    "isWASMChain": true,
+    "isAstarNativeToken": false
   },
   "statemine": {
     "icon": "/networks/statemine.png",
-    "name": "statemine"
+    "name": "statemine",
+    "relayChain": "kusama",
+    "parachainId": 1000,
+    "endpoint": "wss://statemine-rpc.polkadot.io",
+    "subscan": "https://statemine.subscan.io",
+    "isAstarNativeToken": false
   },
+  "statemint": {
+    "icon": "/networks/statemine.png",
+    "name": "statemint",
+    "relayChain": "polkadot",
+    "parachainId": 1000,
+    "endpoint": "wss://statemint-rpc.dwellir.com",
+    "subscan": "https://statemint.subscan.io",
+    "isAstarNativeToken": false
+},
   "turing": {
     "icon": "/networks/turing.png",
     "name": "turing"
@@ -145,7 +214,13 @@
   },
   "moonriver": {
     "icon": "/networks/moonriver.png",
-    "name": "moonriver"
+    "name": "moonriver",
+    "relayChain": "kusama",
+    "parachainId": 2023,
+    "endpoint": "wss://wss.api.moonriver.moonbeam.network",
+    "subscan": "https://moonriver.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
   },
   "kico": {
     "icon": "/networks/kico.png",
@@ -153,7 +228,12 @@
   },
   "crust shadow": {
     "icon": "/networks/crust shadow.png",
-    "name": "crust shadow"
+    "name": "crust shadow",
+    "relayChain": "kusama",
+    "parachainId": 2012,
+    "endpoint": "wss://rpc2-shadow.crust.network",
+    "subscan": "https://crust.subscan.io",
+    "isAstarNativeToken": true
   },
   "altair": {
     "icon": "/networks/altair.png",
@@ -161,7 +241,13 @@
   },
   "moonbeam": {
     "icon": "/networks/moonbeam.png",
-    "name": "moonbeam"
+    "name": "moonbeam",
+    "relayChain": "polkadot",
+    "parachainId": 2004,
+    "endpoint": "wss://wss.api.moonbeam.network",
+    "subscan": "https://moonbeam.subscan.io",
+    "isEVMChain": true,
+    "isAstarNativeToken": true
   },
   "integritee": {
     "icon": "/networks/integritee.png",

@@ -123,6 +123,14 @@
     "icon": "/networks/statemine.png",
     "name": "statemine"
   },
+  "assetHubKusama": {
+    "icon": "/networks/assetHubKusama.png",
+    "name": "assetHubKusama"
+  },
+  "assetHubPolkadot": {
+    "icon": "/networks/assetHubPolkadot.png",
+    "name": "assetHubPolkadot"
+  },
   "turing": {
     "icon": "/networks/turing.png",
     "name": "turing"
